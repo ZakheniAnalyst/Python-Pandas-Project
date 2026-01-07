@@ -14,7 +14,10 @@ The project follows a structured Exploratory Data Analysis (EDA) workflow, start
 -Derived actionable business insights and recommendations
 
 ### 📈 Bivariate Analysis
-hjfhgh
+![Payment Method Distribution](https://github.com/ZakheniAnalyst/Python-Pandas-Project/blob/main/Payment%20Method%20Distribution.png
+)
+
+
 
 
 ### Tools & Technologies:
