@@ -14,7 +14,7 @@ The project follows a structured Exploratory Data Analysis (EDA) workflow, start
 -Derived actionable business insights and recommendations
 
 ### 📈 Bivariate Analysis
-![Payment Method Distribution]("C:\Users\iamnc\Downloads\Payment Method Distribution.png")
+hjfhgh
 
 
 ### Tools & Technologies:
