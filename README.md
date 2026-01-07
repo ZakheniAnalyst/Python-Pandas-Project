@@ -14,11 +14,25 @@ The project follows a structured Exploratory Data Analysis (EDA) workflow, start
 -Derived actionable business insights and recommendations
 
 ### 📈 Bivariate Analysis
+Payment Method Distribution
 ![Payment Method Distribution](https://github.com/ZakheniAnalyst/Python-Pandas-Project/blob/main/Payment%20Method%20Distribution.png
 )
 
+Payment Method Usage
+![Payment Method Usage](https://github.com/ZakheniAnalyst/Python-Pandas-Project/blob/main/Payment%20Method%20Usage.png)
+
+## Payment Method Usage / Distribution
+### Insights:
+Credit cards are the most frequently used payment method, followed by debit cards and PayPal. 
+This indicates a strong preference for card-based payments, highlighting the importance of maintaining reliable
+card payment infrastructure while offering alternative digital options.
 
 
+## Gender Distribution
+
+### Insight:
+The customer base is evenly split between male and female customers, indicating balanced engagement across genders.
+This suggests that current products and marketing efforts appeal equally to both segments, with no immediate gender bias in purchasing behavior.
 
 ### Tools & Technologies:
 
