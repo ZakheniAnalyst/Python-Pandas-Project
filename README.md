@@ -29,6 +29,15 @@ This suggests that current products and marketing efforts appeal equally to both
 
 ![Gender Distribution](https://github.com/ZakheniAnalyst/Python-Pandas-Project/blob/main/Gender%20Distribution.png)
 
+## Average Rating by Product Category
+
+### Insight:
+Clothing and Home Appliances have the highest average customer ratings, indicating stronger customer satisfaction in these categories. 
+Electronics and Beauty show comparatively lower average ratings, which may reflect higher customer expectations, product complexity, 
+or opportunities for quality and service improvements.
+
+![Average Rating by Product Category](https://github.com/ZakheniAnalyst/Python-Pandas-Project/blob/main/Average%20Rating%20by%20Product%20Category.png)
+
 ### Tools & Technologies:
 -Python (Pandas, Matplotlib)
 -Google Colab
