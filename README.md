@@ -5,11 +5,10 @@ This project explores a retail sales dataset using Python to uncover insights in
 The project follows a structured Exploratory Data Analysis (EDA) workflow, starting from data loading and cleaning, moving through univariate and bivariate analysis, and concluding with business-focused insights and recommendations. Visualizations are used throughout to clearly communicate findings and support data-driven decision-making.
 
 ### Key Highlights:
--Performed data cleaning and feature engineering (revenue and net revenue)
--Conducted univariate analysis to understand distributions and frequencies
--Performed bivariate analysis to compare customer behavior across categories, countries, and demographics
--Analyzed revenue performance by product category and market
--Derived actionable business insights and recommendations
+- Conducted univariate analysis to understand distributions and frequencies.
+- Performed bivariate analysis to compare customer behavior across categories, countries, and demographics.
+- Analyzed revenue performance by product category and market.
+- Derived actionable business insights and recommendations.
 
 ### 📈 Bivariate Analysis
 ## Payment Method Usage / Distribution
